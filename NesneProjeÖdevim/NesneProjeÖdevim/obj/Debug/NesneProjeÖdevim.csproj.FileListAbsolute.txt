@@ -1,0 +1,11 @@
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\bin\Debug\NesneProjeÖdevim.exe.config
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\bin\Debug\NesneProjeÖdevim.exe
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\bin\Debug\NesneProjeÖdevim.pdb
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.csprojAssemblyReference.cache
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.Properties.Resources.resources
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.csproj.GenerateResource.cache
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.exe
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.pdb
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.Form1.resources
+C:\Users\Melisa\source\repos\NesneProjem\NesneProjeÖdevim\NesneProjeÖdevim\obj\Debug\NesneProjeÖdevim.Form2.resources
