@@ -1,2 +1,2 @@
-# adinlatma-otomasyonu
+# aydinlatma-otomasyonu
 Aydınlatma Otomasyonu Projem
